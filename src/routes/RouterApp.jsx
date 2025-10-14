@@ -1,5 +1,5 @@
 import Dashboard from "../pages/Dashboard";
-import Login from "../pages/Login";
+import Login from "../pages/Login"
 
 let routerApp = [
   {
@@ -8,6 +8,6 @@ let routerApp = [
   },
   {
     path: "/login",
-    element: <Login />,
-  },
+    element: <Login />
+  }
 ];
