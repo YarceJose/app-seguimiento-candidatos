@@ -1,4 +1,4 @@
-import './Dashboard.css'
+import "./Dashboard.css";
 const Dashboard = () => {
   return (
     <main className="dashboard-container">
@@ -49,4 +49,4 @@ const Dashboard = () => {
   );
 };
 
-export default Dashboard
+export default Dashboard;
